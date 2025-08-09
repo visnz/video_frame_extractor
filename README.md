@@ -1,0 +1,2 @@
+# video_frame_extractor
+视频文件自动截取关键帧作为参考图的工具
